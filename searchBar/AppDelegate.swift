@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  searchBar
-//
-//  Created by Ashlesha Kamble on 20/06/22.
-//
+
 
 import UIKit
 
